@@ -2,7 +2,7 @@
 
 students = [
     {"name" : "ALi", "id" : 10},
-    {"name" : "Susheel", "id" : 11},
+    {"name" : "Ahmed", "id" : 110},
     {"name" : "Usman", "id" : 1},
 ]
 
